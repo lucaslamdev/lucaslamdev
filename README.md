@@ -1,4 +1,5 @@
 ### Hi there 👋
+![separator](https://raw.githubusercontent.com/lucasmellolm/lucasmellolm/master/separator.gif)
 
 <!--
 **lucasmellolm/lucasmellolm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
