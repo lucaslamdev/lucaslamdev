@@ -1,6 +1,5 @@
 ### Oii! Eu sou o Lucas / Hii! I am Lucas 👋
-![separator](https://raw.githubusercontent.com/lucasmellolm/lucasmellolm/master/separator.gif)
-
+<img align="center" alt="Separador" height="3" src="https://raw.githubusercontent.com/lucasmellolm/lucasmellolm/master/separator.gif">
 
 <div>
 <a href="https://github.com/lucasmellolm">
@@ -8,8 +7,10 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmellolm&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
- <br>
-![separator2](https://raw.githubusercontent.com/lucasmellolm/lucasmellolm/master/separator.gif)
+<img align="center" alt="Separador" height="3" src="https://raw.githubusercontent.com/lucasmellolm/lucasmellolm/master/separator.gif">
+                                                                                                                                        
+<br>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -23,7 +24,7 @@
 </div>
 
  <br>
- ![separator3](https://raw.githubusercontent.com/lucasmellolm/lucasmellolm/master/separator.gif)
- ![Cobrinha](https://raw.githubusercontent.com/lucasmellolm/lucasmellolm/output/github-snake.svg)
+<img align="center" alt="Separador" height="3" src="https://raw.githubusercontent.com/lucasmellolm/lucasmellolm/master/separator.gif">
+<img align="center" alt="Cobrinha" src="https://raw.githubusercontent.com/lucasmellolm/lucasmellolm/output/github-snake.svg">
 
 
