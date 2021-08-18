@@ -13,7 +13,6 @@ jobs:
       # Snake Animation
       - uses: Platane/snk@master
         id: snake-gif
-        colorSnake: "Blue"
         with:
           github_user_name: ${{ github.repository_owner }}
           gif_out_path: dist/github-snake.gif
