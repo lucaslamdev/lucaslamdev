@@ -2,12 +2,12 @@
 <img align="center" alt="Separador" height="3" src="https://raw.githubusercontent.com/lucasmellolm/lucasmellolm/master/separator.gif">
 
 <div align="center" style="display: inline_block">
- <a href="https://github.com/lucasmellolm">
+ <a href="https://github.com/lucaslamdev">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaslamdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslamdev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
-<img align="center" alt="Separador" height="3" src="https://raw.githubusercontent.com/lucasmellolm/lucasmellolm/master/separator.gif">
+<img align="center" alt="Separador" height="3" src="https://raw.githubusercontent.com/lucaslamdev/lucaslamdev/master/separator.gif">
                                                                                                                                         
 <br>
 
@@ -28,12 +28,12 @@
 <img align="center" alt="Separador" height="3" src="https://raw.githubusercontent.com/lucasmellolm/lucasmellolm/master/separator.gif">
  
 <div align="center" style="display: inline_block">
- <img align="center" alt="Cobrinha" src="https://raw.githubusercontent.com/lucasmellolm/lucasmellolm/output/github-snake.svg">
+ <img align="center" alt="Cobrinha" src="https://raw.githubusercontent.com/lucaslamdev/lucaslamdev/output/github-snake.svg">
 </div>
 
 <br>
 
-<img align="center" alt="Separador" height="3" src="https://raw.githubusercontent.com/lucasmellolm/lucasmellolm/master/separator.gif">
+<img align="center" alt="Separador" height="3" src="https://raw.githubusercontent.com/lucaslamdev/lucaslamdev/master/separator.gif">
  
 <div align="center" style="display: inline_block">
 <img align="center" src="https://profile-counter.glitch.me/lucasmellolm/count.svg" />
