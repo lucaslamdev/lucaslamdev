@@ -38,4 +38,59 @@
 <img align="center" src="https://profile-counter.glitch.me/lucasmellolm/count.svg" />
 </div>
 
+Linguagens:
+- Python
+- C++
+- JAVA
+
+Banco de Dados:
+- PostgresSQL
+- MariaDB/MySQL
+- Oracle DB
+- SQLite
+
+Sistemas Operacionais:
+- VMWare ESXI e VSphere/Proxmox/XCPng... (Servidores de VM)
+- Linux(Debian, Ubuntu, Fedora, Alpine, CentOS, Oracle Linux, RedHat...)
+- Windows(XP, Vista, 7, 10, 11, IOT)
+- Windows Server
+- MacOS
+
+NAS:
+- TrueNAS
+- Unraid
+- Synology
+- Wastern Digital
+
+ERP, CRM e E-Commerce:
+- Wordpress
+- Soul MV
+- Senior
+- PrestaShop
+- Woocommerce...
+
+Cloud:
+- AWS
+- GoogleCloud
+- Oracle
+
+Redes:
+- Firewall(Sophos, SonicWall, PFsense...)
+- Switch(Vlan, STP, Trunk/Agregação de link - 3Com, Cisco, Huawei, HP, Dell)
+- Roteadores.
+- Cabeamento...
+
+Outras Habilidades:
+- Recuperação de Dados.
+- Recuperação de Sistemas Operacionais corrompidos.
+- Montagem e Manutenção (Computadores, Servidores e Storages).
+- Docker.
+- Arduino e ESP.
+- DevOPS.
+- Automação (Web, Software, Scraping...).
+- Analise de Dados (Extração e Analise de dados em massa).
+- Backup, Imagem e Snapshots.
+- Active Directory.
+- Samba.
+- File Server...
 
