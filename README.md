@@ -38,6 +38,18 @@
 <img align="center" src="https://profile-counter.glitch.me/lucasmellolm/count.svg" />
 </div>
 
+<img align="center" alt="Separador" height="3" src="https://raw.githubusercontent.com/lucaslamdev/lucaslamdev/master/separator.gif">
+
+Desde a primeira vez que tive contato com um computador, desenvolvi uma paixão inigualável por aprendizado. Iniciei minha jornada desmontando e montando computadores, buscando compreender cada peça e seu funcionamento. Ao longo do tempo, aprofundei meu conhecimento, explorando os meandros de programas e a complexidade da internet.
+
+Minha busca por conhecimento não se limitou apenas ao uso convencional de tecnologia; mergulhei no estudo de hacking e segurança da informação. Através desse caminho, explorei tanto as estratégias de ataque quanto os meios de proteção, adquirindo uma compreensão abrangente do cenário de segurança cibernética.
+
+Além disso, aprimorei minhas habilidades na montagem e configuração de servidores, focando na criação de ambientes estáveis e altamente protegidos. Minha expertise inclui não apenas a compreensão profunda da segurança digital, mas também a capacidade de implementar e manter infraestruturas de servidores robustas.
+
+Com uma mentalidade voltada para a resolução de problemas, uma paixão por tecnologia e habilidades sólidas em segurança cibernética e administração de servidores, busco oportunidades para aplicar e expandir meu conhecimento em ambientes dinâmicos. Estou comprometido em contribuir de forma significativa, utilizando meu conjunto diversificado de habilidades para enfrentar desafios e promover a excelência tecnológica.
+
+<img align="center" alt="Separador" height="3" src="https://raw.githubusercontent.com/lucaslamdev/lucaslamdev/master/separator.gif">
+
 Linguagens:
 - Python
 - C++
