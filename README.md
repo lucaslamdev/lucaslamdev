@@ -32,7 +32,7 @@
 <img align="center" alt="Separador" height="3" src="https://raw.githubusercontent.com/lucaslamdev/lucaslamdev/master/separator.gif">
  
 <div align="center" style="display: inline_block">
-<img align="center" src="https://profile-counter.glitch.me/lucasmellolm/count.svg" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/lucasmellolm.png" alt="TryHackMe">
 </div>
 
 <img align="center" alt="Separador" height="3" src="https://raw.githubusercontent.com/lucaslamdev/lucaslamdev/master/separator.gif">
